@@ -1,0 +1,2 @@
+[console_scripts]
+greeting = hello_world_vvm.main:greeting

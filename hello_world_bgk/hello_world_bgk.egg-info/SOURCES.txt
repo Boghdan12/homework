@@ -1,0 +1,8 @@
+setup.py
+hello_world_bgk/__init__.py
+hello_world_bgk/main.py
+hello_world_bgk.egg-info/PKG-INFO
+hello_world_bgk.egg-info/SOURCES.txt
+hello_world_bgk.egg-info/dependency_links.txt
+hello_world_bgk.egg-info/entry_points.txt
+hello_world_bgk.egg-info/top_level.txt
